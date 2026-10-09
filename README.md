@@ -1,2 +1,24 @@
-# markley-tetrahedral-map
-Markley tetrahedral projection: math, code, and visualizations.
+# Markley Tetrahedral Map / Markley 四面体投影
+
+## 简介
+Markley 四面体投影（Markley's Tetrahedral Map）是由 F. Landis Markley 于 1982 年提出的一种等角（Conformal）世界地图投影。它基于 L.P. Lee 在 1965 年设计的等角四面体投影，通过将地球映射到一个正四面体上并展开为矩形图幅来实现。
+
+其核心设计理念是“大陆优先”，通过精妙的数学排列，将投影产生的极端变形“驱逐”到远离大陆的海洋区域，从而在矩形图幅内尽可能保持大陆轮廓的自然形状。需要注意的是，该投影牺牲了海洋的连续性，因此不适合用于面积精确测量和航海导航，但其独特的数学构造和视觉效果使其成为地图学中一个非常有趣的案例。
+
+## 地图展示
+![Markley 四面体投影地图](./images/markley-tetrahedral-map.jpg)
+
+## 图片来源与授权
+- 本图片由 B 站 UP 主 [@半调](https://space.bilibili.com/3493295535688604) 授权使用。
+- 原视频：[全网首张｜真实还原地球的世界地图（马克利投影）](https://www.bilibili.com/video/BV1ochJ6wERK/)
+- 图片版权归原作者所有，不适用本项目的开源许可。未经原作者许可，请勿二次转载或商用。
+
+## 免责声明
+- 本项目仅供地图投影数学原理的学习与交流，不用于商业用途。
+- 地图图片不代表任何政治立场，不构成官方标准地图。
+- 中国国界以中国官方发布的标准地图为准。
+- 如涉及版权或内容问题，请联系删除。
+
+## 许可证
+- 本项目文档采用 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 许可。
+- 地图图片版权归原作者所有，仅经授权展示。
