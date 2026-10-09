@@ -1,4 +1,4 @@
-# Markley Tetrahedral Map / 马克利 四面体投影 地图
+# 马克利 四面体投影 地图 / Markley Tetrahedral Map
 
 > 用 Markley 四面体投影绘制的世界地图，附面积缩放统计数据与热力图。
 > 本项目为**纯技术演示与科普**，供地图投影数学原理的学习与交流。
