@@ -1,6 +1,6 @@
 # Markley 面积倍率 k_rel 统计表
 
-本文件以 Markdown 表格记录 Markley 四面体投影的**面积缩放倍率（k_rel）**统计数据。
+本文件以 Markdown 表格记录 Markley 四面体投影的**面积缩放倍率**（k_rel）统计数据。
 
 > **数据来源**：由原统计图（`table-countries-1/2/3.jpg`、`table-china-provinces.jpg`、`table-interval-continent.jpg`）逐项转录，原图已删除，以本文件为准。
 > **倍率含义**：`平均放大倍率` = 投影后面积 ÷ 实际面积。`1.0000x` 表示不变；`>1` 为放大，`<1` 为缩小。
